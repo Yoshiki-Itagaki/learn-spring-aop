@@ -1,10 +1,10 @@
-package com.in28minutes.learn_spring_aop.example.business;
+package com.in28minutes.learn_spring_aop.aopexample.business;
 
 import java.util.Arrays;
 
 import org.springframework.stereotype.Service;
 
-import com.in28minutes.learn_spring_aop.example.data.DataService1;
+import com.in28minutes.learn_spring_aop.aopexample.data.DataService1;
 
 @Service
 public class BusinessService1 {

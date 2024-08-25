@@ -6,7 +6,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.in28minutes.learn_spring_aop.example.business.BusinessService1;
+import com.in28minutes.learn_spring_aop.aopexample.business.BusinessService1;
 
 @SpringBootApplication
 public class LearnSpringAopApplication implements CommandLineRunner {
